@@ -1,0 +1,1 @@
+Hello there. This is the day after the coding workshop and I want to make sure I still remember how to push to github 
